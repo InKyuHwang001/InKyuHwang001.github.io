@@ -113,7 +113,7 @@ author:
       url: "mailto:hwanginkyu42@naver.com"
     - label: "blog"
       icon: "fas fa-fw fa-link" 
-      url: "hhttps://blog.naver.com/hwanginkyu42"
+      url: "https://blog.naver.com/hwanginkyu42"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/InKyuHwang001"
